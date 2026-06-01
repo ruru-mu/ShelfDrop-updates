@@ -1,1 +1,7 @@
 
+{
+  "latestVersion": "2.1.0.2",
+  "downloadURL": "https://github.com/rumu-mu/<distribution-repo>/releases/download/v2.1.0.2/ShelfDrop-2.1.0.2.zip",
+  "notesURL": "https://github.com/rumu-mu/<distribution-repo>/releases/tag/v2.1.0.2",
+  "minimumSupported": "2.0.0"
+}
